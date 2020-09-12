@@ -31,7 +31,7 @@ E-posta hesabı açılan kutusunda, imzayla ilişkilendirilecek bir e-posta hesa
  + Yeni imzanızı kaydedip iletinize dönmek için Tamam 'ı seçin. İmzayı tüm yeni iletilere uygulamayı seçseniz bile, Outlook yeni imzanızı adım 1 ' de açtığınız iletiye eklemez. İmzayı el ile bu iletiye eklemeniz gerekir. Tüm gelecek iletilerde imza otomatik olarak eklenir. İmzayı el ile eklemek için, ileti menüsünde imza 'yı seçin ve sonra yeni oluşturduğunuz imzayı seçin.
 + Detaylı bilgi için [tıklayın](https://support.microsoft.com/tr-tr/office/%C4%B0letilere-imza-olu%C5%9Fturma-ve-ekleme-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
 
-## Şablon üzerinde nasıl değişiklik yaparım?
+## Bilgilerimi nasıl ekleyebilirim?
 [template.html](template.html) dosyasını herhangi bir kod veya metin editörü ile açın.
 
 **Resim Değiştirme**:
@@ -55,3 +55,7 @@ E-posta hesabı açılan kutusunda, imzayla ilişkilendirilecek bir e-posta hesa
 **Adres Değiştirme**:
  - Kodda `<!-- Adress, change to href and Adres:-->` satırda ki `href=" "` kısmına harita uygulaması üzerinden alacağınız konumunuzun paylaşım linkini yazınız.
  - Kodda `<!-- Adress, chance to src and Adress:-->` satırının en sonundaki `</a>` dan önce açık adresinizi yazınız.
+
+## Şablon üzerinde nasıl değişiklik yaparım ve size iletebilirim?
+
+Şablon bazı servis sağlayıcılarına daha kolay ekleme yapabilmek için inline CSS kullanılarak yazılmıştır.Sitillendirmede değişikliklerinizi bu yapıyı göz önünde bulundurarak gerçekleştirin.Bu repo'yu fork'layın sonrasında ise kendi bilgisayarınıza clon'layarak "[template.html](template.html)" üzerinde değişikliklerinizi yapın, "**example.png**" adında olan görseli silin ve kendi şablonunuzun ekran görüntüsünü **aynı isimle** kaydedin(ekran görüntüsünü kırpmayı unutmayın).Kodunuzu anlaşılır olacak şekilde commit'leyin ve kendi reponuza push'layın.Ardında new pull request işlemini yaptığınız değişiklikleri açık bir şekilde belirterek gerçekleştirin.Şimdi şablonunuzu inceleyebiliriz, varsa hataları tarafınıza ileteceğiz ve sonrasında şablonunuzu MaviDurak-IO olarak kullanıma alacağız.
