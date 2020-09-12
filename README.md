@@ -35,23 +35,23 @@ E-posta hesabı açılan kutusunda, imzayla ilişkilendirilecek bir e-posta hesa
 [template.html](template.html) dosyasını herhangi bir kod veya metin editörü ile açın.
 
 **Resim Değiştirme**:
- - Kodda " <!-- Image, chance to src and alt--> " satırda ki `src=" "` kısmına tırnaklar içerisine fotoğrafınızın linkini yazınız.
- - Kodda " <!-- Image, chance to src and alt--> " satırda ki `alt=" "` kısmına tırnaklar içerisine isminizi yazınız.Fotoğraf görüntülenemezse isim görüntülenecek.
+ - Kodda `<!-- Image, chance to src and alt-->` satırda ki `src=" "` kısmına tırnaklar içerisine fotoğrafınızın linkini yazınız.
+ - Kodda `<!-- Image, chance to src and alt-->` satırda ki `alt=" "` kısmına tırnaklar içerisine isminizi yazınız.Fotoğraf görüntülenemezse isim görüntülenecek.
 
 **İsim Değiştirme**:
- - Kodda " <!-- Full name --> " satırda ki `<h1> </h1>` içerisine adınızı ve soyadınızı yazınız.
+ - Kodda `<!-- Full name -->` satırda ki `<h1> </h1>` içerisine adınızı ve soyadınızı yazınız.
 
 **Unvan Değiştirme**:
- - Kodda " <!-- Job title --> " satırda ki `<h2> </h2>` içerisine iş unvanınızı yazınız.
+ - Kodda `<!-- Job title -->` satırda ki `<h2> </h2>` içerisine iş unvanınızı yazınız.
 
 **E-posta Adresi Değiştirme**:
- - Kodda " <!-- Mail adress, change to href and Email:--> " satırda ki `href="mailto: "` kısmına `mailto:` dan sonra e-posta adresinizi  yazınız.
- - Kodda " <!-- Mail adress, chance to src and Email:--> " satırının en sonundaki `</a>` dan önce e-posta adresinizi yazınız.
+ - Kodda `<!-- Mail adress, change to href and Email:-->` satırda ki `href="mailto: "` kısmına `mailto:` dan sonra e-posta adresinizi  yazınız.
+ - Kodda `<!-- Mail adress, chance to src and Email:-->` satırının en sonundaki `</a>` dan önce e-posta adresinizi yazınız.
 
 **Telefon Numarası Değiştirme**:
- - Kodda " <!-- Phone number, change to href and Tel:--> " satırda ki `href="tel: "` kısmına `tel:` dan sonra telefon numaranızı  yazınız.
- - Kodda " <!-- Phone number, chance to src and Tel:--> " satırının en sonundaki `</a>` dan önce telefon numaranızı yazınız.
+ - Kodda `<!-- Phone number, change to href and Tel:-->` satırda ki `href="tel: "` kısmına `tel:` dan sonra telefon numaranızı  yazınız.
+ - Kodda `<!-- Phone number, chance to src and Tel:-->` satırının en sonundaki `</a>` dan önce telefon numaranızı yazınız.
 
 **Adres Değiştirme**:
- - Kodda " <!-- Adress, change to href and Adres:--> " satırda ki `href=" "` kısmına harita uygulaması üzerinden alacağınız konumunuzun paylaşım linkini yazınız.
- - Kodda " <!-- Adress, chance to src and Adress:--> " satırının en sonundaki `</a>` dan önce açık adresinizi yazınız.
+ - Kodda `<!-- Adress, change to href and Adres:-->` satırda ki `href=" "` kısmına harita uygulaması üzerinden alacağınız konumunuzun paylaşım linkini yazınız.
+ - Kodda `<!-- Adress, chance to src and Adress:-->` satırının en sonundaki `</a>` dan önce açık adresinizi yazınız.
