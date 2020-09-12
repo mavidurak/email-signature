@@ -37,8 +37,8 @@ E-posta hesabı açılan kutusunda, imzayla ilişkilendirilecek bir e-posta hesa
 **İsim Değiştirme**:
  - Kodda " <!-- Full name --> " satırda ki `<h1> </h1>` içerisine adınızı ve soyadınızı yazınız.
 
-**Ünvan Değiştirme**:
- - Kodda " <!-- Job title --> " satırda ki `<h2> </h2>` içerisine iş ünvanınızı yazınız.
+**Unvan Değiştirme**:
+ - Kodda " <!-- Job title --> " satırda ki `<h2> </h2>` içerisine iş unvanınızı yazınız.
 
 **E-posta Adresi Değiştirme**:
  - Kodda " <!-- Mail adress, change to href and Email:--> " satırda ki `href="mailto: "` kısmına `mailto:` dan sonra e-posta adresinizi  yazınız.
