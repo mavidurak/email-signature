@@ -1,7 +1,7 @@
-# MaviDurak-IO E-posta Şablonu
-Bu repository MaviDurak-IO tarfından kullanılan e-posta imza kartı şablonunu içermektedir.
+# MaviDurak-IO E-posta İmza Şablonu
+Bu repository MaviDurak-IO tarfından kullanılan e-posta imza kartı şablonunu içermektedir.Bu kart iletinin kim tarafından yazıldığını, bu kişinin topluluk içindeki görevini, kişinin resmini, kişinin ve topluluğun iletişim  bilgilerini içerir.Kişinin veya topluluğun iletişim adresleri kısmına tıklandığında doğrudan temas kurarak karşıdaki kişiye kolaylık sağlar.
 
-Örnek E-posta şablonu şöyledir:
+Örnek E-posta imza şablonu şöyledir:
 
 ![example.png](example.png)
 
