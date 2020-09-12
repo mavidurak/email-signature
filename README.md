@@ -1,7 +1,9 @@
 # MaviDurak-IO E-posta Şablonu
 Bu repository MaviDurak-IO tarfından kullanılan e-posta imza kartı şablonunu içermektedir.
 
-![example.png](emailSigniture.png)
+Örnek E-posta şablonu şöyledir:
+
+![example.png](example.png)
 
 ## Nasıl Kullanılır?
 
