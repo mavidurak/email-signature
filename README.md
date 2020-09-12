@@ -1,6 +1,8 @@
 # MaviDurak-IO E-posta Şablonu
 Bu repository MaviDurak-IO tarfından kullanılan e-posta imza kartı şablonunu içermektedir.
 
+![example.png](emailSigniture.png)
+
 ## Nasıl Kullanılır?
 
 [template.html](template.html) dosyası şablonun html kodlarını içerir.Bu kod indirilerek tarayıcı üzerinde çalıştırıldığında veya online html converter sitelerinde çıktısı alındığında imza şablonu ortaya çıkar.Bu şablonu çıktının tümünü seçerek kopyalayınız.Sonrasında ise E-posta hizmet sağlayıcınızın imza böylümüne yapıştırınız.Bazı E-posta hizmet sağlayıcılarının imza ekleme adımları şöyledir:
