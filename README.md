@@ -1,5 +1,5 @@
-# MaviDurak-IO E-posta İmza Şablonu
-Bu repository MaviDurak-IO tarfından kullanılan e-posta imza kartı şablonunu içermektedir.Bu kart iletinin kim tarafından yazıldığını, bu kişinin topluluk içindeki görevini, kişinin resmini, kişinin ve topluluğun iletişim  bilgilerini içerir.Kişinin veya topluluğun iletişim adresleri kısmına tıklandığında doğrudan temas kurarak karşıdaki kişiye kolaylık sağlar.
+# mavidurak.io E-posta İmza Şablonu
+Bu repository mavidurak.io tarfından kullanılan e-posta imza kartı şablonunu içermektedir.Bu kart iletinin kim tarafından yazıldığını, bu kişinin topluluk içindeki görevini, kişinin resmini, kişinin ve topluluğun iletişim  bilgilerini içerir.Kişinin veya topluluğun iletişim adresleri kısmına tıklandığında doğrudan temas kurarak karşıdaki kişiye kolaylık sağlar.
 
 Örnek E-posta imza şablonu şöyledir:
 
@@ -58,4 +58,4 @@ E-posta hesabı açılan kutusunda, imzayla ilişkilendirilecek bir e-posta hesa
 
 ## Şablon üzerinde nasıl değişiklik yaparım ve size iletebilirim?
 
-Şablon bazı servis sağlayıcılarına daha kolay ekleme yapabilmek için inline CSS kullanılarak yazılmıştır.Sitillendirmede değişikliklerinizi bu yapıyı göz önünde bulundurarak gerçekleştirin.Bu repo'yu fork'layın sonrasında ise kendi bilgisayarınıza clon'layarak "[template.html](template.html)" üzerinde değişikliklerinizi yapın, "**example.png**" adında olan görseli silin ve kendi şablonunuzun ekran görüntüsünü **aynı isimle** kaydedin(ekran görüntüsünü kırpmayı unutmayın).Kodunuzu anlaşılır olacak şekilde commit'leyin ve kendi reponuza push'layın.Ardında new pull request işlemini yaptığınız değişiklikleri açık bir şekilde belirterek gerçekleştirin.Şimdi şablonunuzu inceleyebiliriz, varsa hataları tarafınıza ileteceğiz ve sonrasında şablonunuzu MaviDurak-IO olarak kullanıma alacağız.
+Şablon bazı servis sağlayıcılarına daha kolay ekleme yapabilmek için inline CSS kullanılarak yazılmıştır.Sitillendirmede değişikliklerinizi bu yapıyı göz önünde bulundurarak gerçekleştirin.Bu repo'yu fork'layın sonrasında ise kendi bilgisayarınıza clon'layarak "[template.html](template.html)" üzerinde değişikliklerinizi yapın, "**example.png**" adında olan görseli silin ve kendi şablonunuzun ekran görüntüsünü **aynı isimle** kaydedin(ekran görüntüsünü kırpmayı unutmayın).Kodunuzu anlaşılır olacak şekilde commit'leyin ve kendi reponuza push'layın.Ardında new pull request işlemini yaptığınız değişiklikleri açık bir şekilde belirterek gerçekleştirin.Şimdi şablonunuzu inceleyebiliriz, varsa hataları tarafınıza ileteceğiz ve sonrasında şablonunuzu mavidurak.io olarak kullanıma alacağız.
